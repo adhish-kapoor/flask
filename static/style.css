@@ -76,3 +76,12 @@ color: #444;
 display: block;
 margin-top: 12px;
 }
+
+/* for navbar */
+.navbar{
+    float:right;
+    color:red;
+}
+.active{
+    background-color:red;
+}
